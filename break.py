@@ -1,6 +1,6 @@
 from os import system
-secrete_username = "admin"
-secrete_password = "user1234"
+secrete_username = "adminn"
+secrete_password = "user12345"
 login_attempts = 0
 limit = 3
 while login_attempts <limit:
@@ -15,5 +15,6 @@ while login_attempts <limit:
     login_attempts +=1
 else:
     print("you have exceeded the limit\n\n\tprog ended")
+    
        
        
