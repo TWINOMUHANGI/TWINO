@@ -1,0 +1,11 @@
+this is python programming
+	 ISLAMIC UNIVERSITY IN UGANDA
+		 KAMPALA CAMPUS 
+
+	 Name: 			 Twinomuhangi Bosco
+	 Reg No: 		 223-063012-27099 
+	 Course Unit:	 Structured Programming
+	 Lecturer: 		 Mr Walusimbi
+	 Date:			 25 Jan 2024
+
+			** END ** 
